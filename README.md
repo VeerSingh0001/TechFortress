@@ -2,6 +2,7 @@
 
 Blogging website built using Flask.     
 
-![Screenshot 2025-02-12 115951](https://github.com/user-attachments/assets/db8929b3-76fa-4966-962b-e41ee06fa43b)
+![Screenshot 2025-02-12 124324](https://github.com/user-attachments/assets/eccfea4f-3179-4a71-bb78-86f58eb84fc4)
+
 
      
